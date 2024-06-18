@@ -1,4 +1,4 @@
-### Storage Resources in Azure
+# Storage Resources in Azure
 
 Azure provides robust storage solutions, including Blob Storage, which is ideal for storing large amounts of unstructured data like text files, images, videos, and more. Here’s how you can effectively utilize Blob Storage within your Azure environment:
 
