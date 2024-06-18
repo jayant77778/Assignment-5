@@ -3,7 +3,7 @@
 Azure provides robust storage solutions, including Blob Storage, which is ideal for storing large amounts of unstructured data like text files, images, videos, and more. Here’s how you can effectively utilize Blob Storage within your Azure environment:
 
 
-# Azure Blob Storage 
+### EX-:Azure Blob Storage 
 
 Azure Blob Storage is a scalable object storage solution for storing and managing large amounts of unstructured data. This README provides an overview of Azure Blob Storage and guides on how to interact with it using Azure Portal and Azure Storage Explorer.
 
